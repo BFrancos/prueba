@@ -1,7 +1,7 @@
-Hola mundo, ahora hice una modificacion para corroborar el BASH.
+Modificacion para corroborar el BASH.
 
-Hello world, because I like English lenguage. 
+Hello;
 
 Another change for the trial. 
 
-Change change and more change.
+Change.
